@@ -15,6 +15,9 @@ const options = {
         },
         data2: {
             type: 'profile',
+        },
+        data2: {
+            type: 'profile',
         }
     }),
 };
